@@ -1,0 +1,13 @@
+{
+  "ModelVersion": "0.1.0",
+  "Labels": [
+    {
+      "Name": "Proper usage",
+      "Confidence": 0.3153
+    },
+    {
+      "Name": "Out-of-context usage",
+      "Confidence": 0.6847
+    }
+  ]
+}
